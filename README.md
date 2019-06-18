@@ -1,3 +1,3 @@
 # personalweb
-Personal Website
-lmao
+
+My own little online business card!

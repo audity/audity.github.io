@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Audrey */
+.audrey .sidebar {
+  background-color: #8d8ac2;
+}
+.audrey .content a,
+.audrey .related-posts li a:hover {
+  color: #8d8ac2;
+}

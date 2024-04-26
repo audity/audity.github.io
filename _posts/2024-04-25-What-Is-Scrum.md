@@ -3,7 +3,9 @@ layout: post
 title: What is Scrum?
 ---
 These notes are taken from a conglomeration of places, including:
+
 [scrum.org](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum)
+
 [szalapski's scrum rubric](http://www.szalapski.com/2015/12/szalapskicom-scrum-rubric.html)
 
 
@@ -57,5 +59,7 @@ The team should:
 [scrum master checklist](https://scrummasterchecklist.org/pdf/ScrumMaster-Checklist-2022-02-08-en.pdf)
 
 On my reading list:
+
 Coaching Agile Teams by Lyssa Adkins
+
 Scrum Mastery: From Good To Great Servant-Leadership by Geoff Watts

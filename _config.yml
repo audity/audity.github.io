@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Audrey
 tagline:          'Engineering Blog-ish'
 description:      'Learning along the way.'
-url:              https://audity.github.io
+url:              https://audity.github.io/all-posts/
 baseurl:          https://audity.github.io
 
 author:

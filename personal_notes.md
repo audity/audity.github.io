@@ -7,6 +7,8 @@ title: Personal Notes
 Cooking
 
 [Best Asparagus](https://audity.github.io/2025/12/05/Best-Asparagus/)
+[Honey Glazed Seabass](https://audity.github.io/2025/12/06/Honey-Glazed-Seabass/)
+[Best Asparagus](https://audity.github.io/2025/12/06/Tomato-Pasta/)
 
 --------
 

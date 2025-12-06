@@ -4,6 +4,13 @@ title: Index
 ---
 --------
 
+December 2025
+
+[Best Asparagus](https://audity.github.io/2025/12/05/Best-Asparagus/)
+
+--------
+--------
+
 June 2024
 
 [What is Threading?](https://audity.github.io/2024/06/04/What-Is-Threading/)

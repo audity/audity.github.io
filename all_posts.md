@@ -10,6 +10,7 @@ December 2025
 [Honey Glazed Seabass](https://audity.github.io/2025/12/06/Honey-Glazed-Seabass/)
 [Best Asparagus](https://audity.github.io/2025/12/06/Tomato-Pasta/)
 [Hong Shao Rou](https://audity.github.io/2026/01/21/Hong-Shao-Rou/)
+[Honey Glazed Carrots](https://audity.github.io/2026/03/10/Honey-Glazed-Carrots/)
 
 --------
 

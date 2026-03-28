@@ -13,6 +13,7 @@ December 2025
 [Honey Glazed Carrots](https://audity.github.io/2026/03/10/Honey-Glazed-Carrots/)
 [Lemon Butter Salmon](https://audity.github.io/2026/03/11/Lmeon-Butter-Salmon/)
 [Yakiudon](https://audity.github.io/2026/03/23/Yakiudon/)
+[Baked Chicken Katsu](https://audity.github.io/2026/03/28/Baked-Chicken-Katsu)
 
 --------
 

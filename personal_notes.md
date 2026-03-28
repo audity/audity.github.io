@@ -8,9 +8,9 @@ Cooking
 
 [Best Asparagus](https://audity.github.io/2025/12/05/Best-Asparagus/)
 
-[Honey Glazed Seabass](https://audity.github.io/2025/12/06/Honey-Glazed-Seabass/)
+[Honey Glazed Seabass](https://audity.github.io/2025/12/06/Honey-Glazed-Sea-Bass/)
 
-[Best Asparagus](https://audity.github.io/2025/12/06/Tomato-Pasta/)
+[Tomato Pasta](https://audity.github.io/2025/12/06/Tomato-Pasta/)
 
 [Hong Shao Rou](https://audity.github.io/2026/01/21/Hong-Shao-Rou/)
 

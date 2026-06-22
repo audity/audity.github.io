@@ -22,6 +22,8 @@ Cooking
 
 [Baked Chicken Katsu](https://audity.github.io/2026/03/28/Baked-Chicken-Katsu)
 
+[Honey Garlic Chicken](https://audity.github.io/2026/06/22/Honey-Garlic-Chicken)
+
 --------
 
 Misc.

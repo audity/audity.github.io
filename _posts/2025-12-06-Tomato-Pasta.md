@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tomato Pasta
+type: personal
 ---
 
 Ingredients: 

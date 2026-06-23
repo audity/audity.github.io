@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Honey Glazed Sea Bass
+type: personal
 ---
 
 Ingredients: 

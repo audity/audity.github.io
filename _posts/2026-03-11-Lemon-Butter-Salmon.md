@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lemon Butter Salmon
+type: personal
 ---
 
 Ingredients

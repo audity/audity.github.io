@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best Asparagus
+type: personal
 ---
 
 Ingredients: 

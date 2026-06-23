@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Threading?
+type: coding
 ---
 
 When we're writing a program, we usually write things sequentially. Which, is great, but modern computers have more computing power and can do more. We can use different processes to concurrently solve problems to get a faster result. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baked Chicken Katsu
+type: personal
 ---
 
 Ingredients:

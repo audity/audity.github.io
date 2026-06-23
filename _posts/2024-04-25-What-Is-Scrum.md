@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Scrum?
+type: coding
 ---
 These notes are taken from a conglomeration of places, including:
 

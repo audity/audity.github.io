@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hong Shao Rou (My Uncle's)
+type: personal
 ---
 
 Ingredients:

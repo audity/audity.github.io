@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Build a Blog with Jekyll (and Hyde, the theme)
+type: coding
 ---
 
 I did some searching around and couldn't find a good introduction that got you set up quickly with a blog and also had it look pretty. I finally found the helpful tutorial [here](https://jashmehta3300.github.io/making-your-own-blog/) on how to set up the Hyde theme and decided that I will add some helpful hints. 

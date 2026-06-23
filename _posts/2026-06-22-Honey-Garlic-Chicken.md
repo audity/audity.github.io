@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Honey Garlic Chicken
+type: personal
 ---
 
 Ingredients:

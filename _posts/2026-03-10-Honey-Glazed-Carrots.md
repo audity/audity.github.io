@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Honey Glazed Carrots
+type: personal
 ---
 
 Ingredients:

@@ -1,8 +1,16 @@
 ---
 
+
+
 layout: page
 title: Personal Notes
 ---
+
+--------
+
+July 2026
+
+[Pepper Lunch](/2026/07/07/Pepper-Lunch/)
 
 --------
 

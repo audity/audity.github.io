@@ -2,9 +2,16 @@
 
 
 
+
 layout: page
 title: Index
 ---
+
+--------
+
+September 2026
+
+[Granola](/2026/09/24/Granola/)
 
 --------
 

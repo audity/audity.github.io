@@ -1,0 +1,41 @@
+name: Update Index
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate post indexes
+        run: python scripts/generate_post_indexes.py
+
+      - name: Commit generated changes to main
+        if: github.actor != 'github-actions[bot]'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add all_posts.md personal_notes.md engineering_thoughts.md
+
+          if git diff --cached --quiet; then
+            echo "No index changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update generated post indexes"
+          git push origin HEAD:main

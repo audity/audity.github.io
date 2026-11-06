@@ -158,8 +158,12 @@ def read_front_matter_block(path: Path) -> str:
     txt = path.read_text(encoding="utf-8")
     if txt.startswith("---"):
         parts = txt.split("---", 2)
-        if len(parts) >= 2:
-            return "---\n" + parts[1] + "---\n"
+        if len(parts) >= 3:
+            fm = parts[1].strip()
+            if fm:
+                lines = [line.rstrip() for line in fm.splitlines() if line.strip()]
+                return "---\n" + "\n".join(lines) + "\n---\n"
+            return "---\n---\n"
     # fallback minimal front-matter
     return "---\nlayout: page\n---\n"
 

@@ -5,6 +5,12 @@ title: Index
 
 --------
 
+November 2026
+
+[Sukiyaki](/2026/11/06/Sukiyaki/)
+
+--------
+
 September 2026
 
 [Granola](/2026/09/24/Granola/)

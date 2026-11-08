@@ -7,6 +7,8 @@ title: Personal Notes
 
 November 2026
 
+[Mommy's Tomato Egg Soup](/2026/11/07/Mommy's-Tomato-Egg-Soup/)
+
 [Sukiyaki](/2026/11/06/Sukiyaki/)
 
 --------
